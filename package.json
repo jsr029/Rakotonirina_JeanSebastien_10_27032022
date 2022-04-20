@@ -1,0 +1,24 @@
+{
+  "name": "package.json",
+  "version": "1.0.0",
+  "description": "P10 Définissez les besoins pour une app de soutien scolaire",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jsr029/Rakotonirina_JeanSebastien_9_27032022.git"
+  },
+  "keywords": [
+    "openclassrooms",
+    "projet",
+    "10"
+  ],
+  "author": "jsr029",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jsr029/Rakotonirina_JeanSebastien_9_27032022/issues"
+  },
+  "homepage": "https://github.com/jsr029/Rakotonirina_JeanSebastien_9_27032022#readme"
+}
