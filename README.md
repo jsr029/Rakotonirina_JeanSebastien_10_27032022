@@ -10,6 +10,6 @@
 # Présentation des livrables (15 minutes) 
 Après avoir résumé le besoin client et la solution envisagée, vous présentez vos livrables : 
 - les maquettes 
-- les user stories avec critère(s) d’acceptation 
+- les user stories avec critère(s) d’acceptation : https://github.com/jsr029/Rakotonirina_JeanSenastien_10_27032022/blob/master/Docs/Rakotonirina_JeanSebastien_2_user_stories_042022.pdf
 - les diagrammes de cas d’usage : https://github.com/jsr029/Rakotonirina_JeanSenastien_10_27032022/blob/master/Docs/Rakotonirina_JeanSebastien_1_diagramme_cas_usage_042022%20.pdf
 - le tableau kanban (Notion, Trello ou GitHub).
